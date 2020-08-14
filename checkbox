@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+  <input type="checkbox" id="yes" name="yes" value="yes">
+  <label for="vehicle1"> yes </label><br>
+</form>
+</body>
+</html>
